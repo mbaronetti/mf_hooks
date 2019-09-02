@@ -1,0 +1,12 @@
+#headerMenu {
+  overflow: hidden;
+  height: 48px;
+  background: transparent;
+  transition: height 0.05s linear; }
+  #headerMenu .ant-menu-item > span {
+    text-transform: uppercase; }
+  #headerMenu.menu__hidden {
+    height: 5px;
+    transition: height 0.05s linear; }
+
+/*# sourceMappingURL=Menu.css.map */

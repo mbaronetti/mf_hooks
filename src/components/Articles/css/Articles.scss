@@ -1,0 +1,13 @@
+.article {
+  margin: 15px;
+  .ant-card-meta-avatar {
+    max-width: 35%;
+    width: 35%;
+    .ant-avatar-image {
+      background: transparent;
+      width: 100%;
+      border-radius: 0;
+      height: auto;
+    }
+  }
+}

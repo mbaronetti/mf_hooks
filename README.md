@@ -1,4 +1,9 @@
+## Description
+A simple application with mobile approach for displaying different set of articles/sections with the use of ReactJS Hooks.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+##  Install
+Download this project, open the root folder and run npm install for intalling project's dependencies 
 
 ## Available Scripts
 
